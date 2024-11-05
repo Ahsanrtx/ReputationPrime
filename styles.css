@@ -29,7 +29,7 @@ ul {
 
 /* Header Styles */
 header {
-  background: #222;
+  background: #e0b12f;
   padding: 20px 0;
   position: fixed;
   width: 100%;
@@ -74,9 +74,11 @@ nav ul li a:hover {
 .hero {
   height: 100vh;
   display: flex;
+  width: 100%;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(to bottom, #444, #222);
+  background: url(images/test\ cover\ 4.jpg) no-repeat center center;
+  background-size: cover;
   color: #fff;
   text-align: center;
   padding-top: 80px;
